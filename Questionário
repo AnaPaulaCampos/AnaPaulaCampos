@@ -1,0 +1,6 @@
+print('Olá!')
+nome = input('Qual é o seu nome?')
+print('Bem vindo(a), {}!' .format(nome))
+ano = (int(input ('Qual ano você nasceu?')))
+ano_atual = 2022
+print('Você tem',ano_atual-ano,'anos!')
